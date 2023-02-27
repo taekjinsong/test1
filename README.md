@@ -12,7 +12,7 @@ git clone TrackingHuman_ver01.git
 cd TrackingHuman_ver01/ros1_ws; ross; catkin b
 ```
 
-The shell file 'tracking.sh' runs the dection and tracking using track_id_ros.cpp including yolo and bytetrack engine files.
+The shell file 'tracking.sh' runs the detection and tracking using track_id_ros.cpp including yolo and bytetrack engine files.
 
 ```
 ./tracking.sh
