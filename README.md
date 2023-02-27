@@ -3,6 +3,7 @@
 
 ssh ghost@192.168.168.105
 
+## 1.
 First, we activate the shell file for publishing detection and tracking modules.  
 Please downloads the git files and builds the ros1 package (catkin build) for image topics.
 
